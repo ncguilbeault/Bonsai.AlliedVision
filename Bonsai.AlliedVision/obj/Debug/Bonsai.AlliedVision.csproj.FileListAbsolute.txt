@@ -1,0 +1,2 @@
+C:\Users\Nicholas\Documents\Bonsai.AlliedVision\Bonsai.AlliedVision\obj\Debug\Bonsai.AlliedVision.csprojAssemblyReference.cache
+C:\Users\Nicholas\Documents\Bonsai.AlliedVision\Bonsai.AlliedVision\obj\Debug\Bonsai.AlliedVision.csproj.CoreCompileInputs.cache
